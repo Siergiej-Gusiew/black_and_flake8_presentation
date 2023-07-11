@@ -4,6 +4,11 @@
 - ```python -m pip install --upgrade pip```
 - ```pip install -r requirements.txt```
 
+**to github**
+git remote add origin https://github.com/Siergiej-Gusiew/black_and_flake8_presentation.git
+git branch -M main
+git push -u origin main
+
 
 ## Repository overview
 
