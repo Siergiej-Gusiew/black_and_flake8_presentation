@@ -9,6 +9,9 @@
 - ```git branch -M main```
 - ```git push -u origin main```
 
+**Dependencies management**
+- ```pip freeze -> requirements.txt```
+
 
 ## Repository overview
 
