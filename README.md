@@ -12,6 +12,9 @@
 **Dependencies management**
 - ```pip freeze -> requirements.txt```
 
+**Initialize pre-commits**
+- ```pre-commit install```
+
 
 ## Repository overview
 
