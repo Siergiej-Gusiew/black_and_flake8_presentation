@@ -1,4 +1,9 @@
-#lsdjfo;jspidf;asdfoasidfpaisdfoia;sjdfpi;asdpifuapisdf;asdf;asdfa;sdfoiaefpioaudsf
-import pandas as pd
-def some_funk ():
-    return 2 
+# lsdjfo;jspidf;asdfoasidfpaisdfoia;sjdfpi;asdpifuapisdf;asdf;asdfa;sdfoiaefpioaudsf
+
+
+def some_funk():
+    return 2
+
+
+def hey_there():
+    return "Hey there"
