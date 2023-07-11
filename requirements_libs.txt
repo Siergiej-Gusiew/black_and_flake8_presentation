@@ -1,0 +1,6 @@
+numpy
+pandas
+black
+flake8
+pre-commit
+pyyaml
