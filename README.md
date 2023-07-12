@@ -16,6 +16,7 @@
 **Initialize pre-commits**
 - install: black flake8 pre-commit pyyaml
 - setup: .pre-commit-config.yaml
+- setup: pyproject.toml
 - setup: tox.ini
 - ```pre-commit install``` # activate pre-commits
 
