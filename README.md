@@ -14,7 +14,10 @@
 - ```pip freeze -> requirements.txt```
 
 **Initialize pre-commits**
-- ```pre-commit install```
+- install: black flake8 pre-commit pyyaml
+- setup: .pre-commit-config.yaml
+- setup: tox.ini
+- ```pre-commit install``` # activate pre-commits
 
 
 ## Repository overview
