@@ -1,3 +1,5 @@
-import pandas as pd
-def some_funk ():
-    return 1 
+# import pandas as pd
+
+
+def some_funk():
+    return 1
